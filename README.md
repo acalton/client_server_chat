@@ -5,5 +5,4 @@ To run:
 
 In one terminal, run "python server.py"
 
-In another terminal, run "python client.py"
-Follow the server's directions to play a Hangman ASCII game
+In another terminal, run "python client.py" and follow the server's directions to play a Hangman ASCII game
